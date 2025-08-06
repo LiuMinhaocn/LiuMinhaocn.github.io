@@ -2233,7 +2233,7 @@ maxWidth1200()
   -webkit-line-clamp: 2;
 }
 .flink-name {
-  margin-bottom: 5px;
+  margin-bottom: 3px;
   font-weight: bold;
   font-size: 1.5em;
 }
